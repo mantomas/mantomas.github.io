@@ -8,3 +8,6 @@ permalink: /about/
 
 You can check my small projects on [GitHub](https://github.com/mantomas). My main focus is on Python and I'm trying to feel strong in it before I go for some other skils, like JS, Flask and other stuff I'm interested in.
 
+I live in Brno, in the Czech Republic. I use Linux since 2008 and I like the concept of open-source. I would like to find a job in a company that uses Linux as its main platform and whose code is as open as possible.
+
+Who knows where Python will take me in the end?
